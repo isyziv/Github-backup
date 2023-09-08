@@ -1,0 +1,12 @@
+GitMaxConcurrency: 20
+GitAuth:
+  Username: ""
+  Tokens: ""
+owners: ""
+GraphMaxConcurrency: 20
+GraphAuth:
+  CLIENT_ID: ""
+  CLIENT_SECRET: ""
+  TENANT_ID: ""
+  site: ""
+  site_id: ""
